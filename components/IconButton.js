@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 8,
     marginVertical: 2,
     borderWidth: 3,
-    borderColor: 'white'
+    backgroundColor: 'red'
   },
   pressed: {
     opacity: 0.75
